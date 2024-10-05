@@ -13,3 +13,10 @@ ul {
 li{
     margin: 20px;
 }
+img{
+    width: 30%;
+    height: 300px;
+}
+p{
+    width: 60%;
+}
