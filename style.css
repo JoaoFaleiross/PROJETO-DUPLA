@@ -4,7 +4,6 @@ header {
     justify-content: space-between;
     align-content: center;
 }
-
 ul {
     display: flex;
     flex-direction: row;
@@ -20,3 +19,11 @@ img{
 p{
     width: 60%;
 }
+    article{
+        width: 60%;
+        height: 400px;
+
+    }
+    #carouselParceria{
+        margin-bottom: 10px;
+    }
